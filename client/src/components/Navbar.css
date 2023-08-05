@@ -1,0 +1,16 @@
+.shadow{
+  box-shadow: 10px 10px 50px 10px #000 ;
+}
+
+.brand{
+  margin-right: 2rem;
+  margin-left: 6%;
+}
+
+.item{
+  margin: 10px;
+}
+
+.items{
+  margin-right: 6%;
+}
